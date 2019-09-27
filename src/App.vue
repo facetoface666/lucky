@@ -8,6 +8,8 @@
 </template>
 
 <style lang="scss">
+  @import "./assets/css/reset.css";
+
   html{
     font-size: 26.67vw;
   }
